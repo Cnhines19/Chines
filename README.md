@@ -26,4 +26,4 @@ For this assignment, I followed a standard GitHub workflow:
 
 ## Walkthrough Video
 
-[PASTE YOUR VIDEO LINK HERE]
+https://youtu.be/AcjTmJevRNA
