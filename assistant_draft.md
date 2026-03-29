@@ -4,7 +4,7 @@ I am a Certified Registered Nurse Anesthetist (CRNA) and a doctoral DNP/MBA stud
 
 I am especially interested in how anesthesia groups negotiate in-network rates with major insurers and how billing data impacts those negotiations. This process is often fragmented, with limited transparency across regions and payer contracts. Having access to more organized and dynamic data could significantly improve negotiation outcomes and financial sustainability for anesthesia providers.
 
-- Generative AI could help aggregate and analyze billing data across multiple locations to support more informed contract negotiations.
+- Generative AI could help aggregate...
 - It could continuously monitor publicly available data and trends to keep reimbursement benchmarks updated in real time.
 - It could assist in modeling different contract scenarios to help anesthesia groups understand potential financial outcomes before negotiations.
 
