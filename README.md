@@ -4,6 +4,7 @@ This repository contains my work for HW1, demonstrating how I used a coding assi
 
 ## Repository Contents
 
+- README.md
 - assistant_draft.md  
 - final_version.md  
 
